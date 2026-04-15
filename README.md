@@ -1,7 +1,7 @@
 # Online Shopping Customer Behavior Analysis
 
 **Course:** Data Science using Excel  
-**Student:** Savio Tito — UID 24bsc10046  
+**Student:** Savio Tito
 **Guide:** Parwan Singh  
 **University:** Chandigarh University  
 **Academic Year:** 2024–25  
